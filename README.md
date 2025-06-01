@@ -1,5 +1,5 @@
 # DỰ ÁN: WEBSITE QUẢN LÝ TÀI CHÍNH CÁ NHÂN
-**1. Giới thiệu**
+**1. Giới thiệu** <br>
 NeverGiveUp - Website Quản lý Tài chính Cá nhân là một dự án được phát triển trong khuôn khổ môn học Phát triển ứng dụng tại Trường Đại học Công nghiệp TP.HCM. Dự án nhằm mục đích giúp người dùng cá nhân có thể quản lý, theo dõi và tối ưu hóa việc thu - chi hằng ngày một cách hiệu quả, đơn giản và dễ sử dụng.
 
 **2. Website hỗ trợ các chức năng chính:**
