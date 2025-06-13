@@ -10,5 +10,7 @@ NeverGiveUp - Website Quản lý Tài chính Cá nhân là một dự án đư�
 + Phân loại các khoản thu/chi theo từng mục đích
 + Quản lý nhiều tài khoản ví khác nhau
 
+**Ngôn ngữ và Framework:** PHP, Laravel, HTML, CSS, JS, MySQL.
+
 Dự án được xây dựng bởi nhóm NeverGiveUp, bao gồm 7 thành viên với vai trò và nhiệm vụ rõ ràng trong từng giai đoạn của quy trình phát triển.
 
